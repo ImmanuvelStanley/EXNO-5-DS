@@ -253,4 +253,4 @@ plt.legend()
 ![image](https://github.com/BALUREDDYVELAYUDHAMGOWTHAM/EXNO-5-DS/assets/119559905/8e7b0944-d2fe-4b09-a6e6-e0904ac308d8)
 
 # Result:
-  Thus, The implementation of data visualization using matplotlib has been successfully verified.
+Thus, The implementation of data visualization using matplotlib has been successfully verified.
